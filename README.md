@@ -16,7 +16,6 @@ This repository contains my Python practice programs and exercises.
 - While Loop
 - Basic Python Programs
 Lists
-
 Creating a list
 append()
 insert()
