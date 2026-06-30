@@ -15,6 +15,7 @@ This repository contains my Python practice programs and exercises.
 - For Loop
 - While Loop
 - Basic Python Programs
+
 Lists
 Creating a list
 append()
@@ -27,4 +28,16 @@ count()
 len()
 Traversing a list using for loop
 Traversing a list using while loop
+
+Function with parameters
+- Addition function
+- Subtraction function
+- Variable-length arguments (`*args`)
+- Keyword arguments (`**kwargs`)
+- Converting tuple arguments into a list
+- Working with dictionaries
+
+
+
+
 I am currently learning Python and uploading my practice code to track my progress and improve my programming skills.
